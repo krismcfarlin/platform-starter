@@ -7,9 +7,9 @@ data/
 # Environment files
 .env
 
-# Go binaries
-platform-starter
-app
+# Go binaries (at root only)
+/platform-starter
+/app
 
 # Go build cache
 *.test
